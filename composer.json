@@ -1,13 +1,16 @@
 {
     "name": "einfacharchiv/rechnungsmail.de",
-    "description": "PHP script for the extraction of billing data according to rechnungsmail.de",
+    "description": "Extract billing data according to rechnungsmail.de",
     "keywords": [
         "einfachArchiv",
-        "rechnungsmail.de",
+        "php",
+        "text",
         "email",
         "billing",
         "data",
-        "extraction"
+        "extraction",
+        "rechnungsmail.de",
+        "rechnungsmail"
     ],
     "type": "library",
     "homepage": "https://github.com/einfachArchiv/rechnungsmail.de",
