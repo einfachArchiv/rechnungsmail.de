@@ -50,7 +50,7 @@ class Rechnungsmail
      */
     public function getInvoiceDate()
     {
-        preg_match('/^Rechnungsdatum:\s+([0-9]{2}.[0-9]{2}.[0-9]{4}|[0-9]{4}-[0-9]{2}-[0-9]{2})$/im', $this->email, $matches);
+        preg_match('/^Rechnungsdatum:\s+([0-9]{2}\.[0-9]{2}\.[0-9]{4}|[0-9]{4}-[0-9]{2}-[0-9]{2})$/im', $this->email, $matches);
 
         return isset($matches[1]) && false !== strtotime($matches[1]) ? $matches[1] : null;
     }
