@@ -1,8 +1,8 @@
-# Extract billing data according to rechnungsmail.de
+# Extract billing data from text according to rechnungsmail.de
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
-This package provides an easy way to extract billing data according to [rechnungsmail.de](http://rechnungsmail.de).
+This package provides an easy way to extract billing data from text according to [rechnungsmail.de](http://rechnungsmail.de).
 
 einfachArchiv is a German SaaS product to organize your documents in one place and meet all legal requirements. You'll find us [on our website](https://www.einfacharchiv.com).
 
