@@ -1,6 +1,6 @@
 {
     "name": "einfacharchiv/rechnungsmail.de",
-    "description": "Extract billing data according to rechnungsmail.de",
+    "description": "Extract billing data from text according to rechnungsmail.de",
     "keywords": [
         "einfachArchiv",
         "php",
